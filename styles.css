@@ -1,0 +1,14 @@
+.navigation {
+    display: flex;
+    font-style: italic;
+    background-color: navy;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+}
+
+.melioralogo{
+    display: flex;
+    justify-content: left;
+    width: 150px;
+}
